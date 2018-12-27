@@ -11,11 +11,11 @@ Carousel using Flickity and Mustache plugins related with Google Maps API.
 Project is created with:
 * HTML5
 * Sass
-* Java Script
+* JavaScript
 * RWD
 
 ## Tools
-The following tools were used
+The following tools were used:
 * NPM
 * Git
 * Flickity
